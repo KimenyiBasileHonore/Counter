@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+   
+  }
+
+ #container{
+   height: 200px;
+   width: 150px;
+   border: 10px solid black;
+   margin: 50px auto;
+   background-color: grey;
+
+   
+ }
+ h1{
+    text-align: center;
+    color: white;
+
+
+
+ }
+ 
+ #span{
+    height: 25px;
+    width: 250px;
+    margin: 50px auto;
+    border: 1px solid black;
+    text-align: center;
+    background-color: grey;
+  }
+   
+ #btn{
+   height: 50px;
+   width: 150px;
+   margin-top: 75px;
+   margin-left: 175;
+ }
